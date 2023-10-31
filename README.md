@@ -12,7 +12,7 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 
 ---
 
-### 👷‍♂️ Some of my projects: 
+### 👷‍♂️ Some of my personal projects: 
 - Andamento (Expo, React Native): [Repository](https://github.com/pedrocosta132/andamento)
 - CSS Viewer (Svelte, SvelteKit): [Repository](https://github.com/pedrocosta132/css-viewer) | [Live demo](https://css-viewer.onrender.com/)
 - Frontend Challenges (React): [Repository](https://github.com/pedrocosta132/react-challenges)
