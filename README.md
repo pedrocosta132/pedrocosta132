@@ -12,6 +12,11 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 
 ---
 
+### 🚀 Shipped projects: 
+- [Archi Summit InDetail](https://indetail.archisummit.pt/) | Main WEB DEVELOPER for the 1st MVP
+
+---
+
 ### 👷‍♂️ Some of my personal projects: 
 - Andamento (Expo, React Native): [Repository](https://github.com/pedrocosta132/andamento)
 - CSS Viewer (Svelte, SvelteKit): [Repository](https://github.com/pedrocosta132/css-viewer) | [Live demo](https://css-viewer.onrender.com/)
