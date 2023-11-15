@@ -13,7 +13,9 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 ---
 
 ### 🚀 Shipped projects: 
+- [Freecourts](https://freecourts.pt/) | Frontend Engineer for the 1st MVP
 - [Archi Summit InDetail](https://indetail.archisummit.pt/) | Main WEB DEVELOPER for the 1st MVP
+- [CDUP](https://cdup.up.pt/) | Support Web Developer
 
 ---
 
