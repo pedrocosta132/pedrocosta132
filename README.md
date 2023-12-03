@@ -26,6 +26,11 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 
 ---
 
+### 🎅 Christmas Spirit: 
+- [Advent of TypeScript 2023](https://github.com/pedrocosta132/advent-of-typescript-2023) | [Advent of Code 2023](https://github.com/pedrocosta132/advent-of-code-2023)
+
+---
+
 ### 🛠 Languages and Tools:
 
 <p>
