@@ -5,9 +5,9 @@
 
 I am a Frontend Developer from 🇵🇹 Portugal.
 
-- 🔭 Currently working as a Frontend Engineer at Craftable Software.
+- 🔭 Currently working as a Web Developer at Sincelo.
 - 🌱 Also exploring mobile development.
-- ⚡ Finishing up my bachelor's degree and starting frontend related certifications.
+- ⚡ Bachelor's degree in Software Engineering. Associate's degree in Software development. Currently exploring Frontend development certifications.
 - 📫 Reach me at &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-pedrocosta132-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocosta132)
 
 ---
