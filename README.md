@@ -7,7 +7,8 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 
 - 🔭 Currently working as a Web Developer at Sincelo.
 - 🌱 Also exploring mobile development.
-- ⚡ Bachelor's degree in Software Engineering. Associate's degree in Software development. Currently exploring Frontend development certifications.
+- 🤓 Currently pursuing certification in Web Accessibility.
+- ⚡ Bachelor's degree in Software Engineering. Associate's degree in Software development.
 - 📫 Reach me at &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-pedrocosta132-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocosta132)
 
 ---
@@ -16,10 +17,12 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 - [Freecourts](https://freecourts.pt/) | Frontend Engineer for the 1st MVP
 - [Archi Summit InDetail](https://indetail.archisummit.pt/) | Main WEB DEVELOPER for the 1st MVP
 - [CDUP](https://cdup.up.pt/) | Support Web Developer
+- ...along with several additional projects not publicly disclosed.
 
 ---
 
 ### 👷‍♂️ Some of my personal projects: 
+- ⭐ Transportes Porto (React, TailwindCSS) - Access real-time public transportation schedules across Porto: [Live](https://transportes-porto.vercel.app/)
 - Andamento (Expo, React Native): [Repository](https://github.com/pedrocosta132/andamento)
 - CSS Viewer (Svelte, SvelteKit): [Repository](https://github.com/pedrocosta132/css-viewer) | [Live demo](https://css-viewer.onrender.com/)
 - Frontend Challenges (React): [Repository](https://github.com/pedrocosta132/react-challenges)
