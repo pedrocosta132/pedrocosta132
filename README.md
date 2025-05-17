@@ -5,7 +5,7 @@
 
 I am a Frontend Developer from 🇵🇹 Portugal.
 
-- 🔭 Currently working as a Web Developer at Sincelo.
+- 🔭 Currently working as a Full-Stack Developer at Sincelo.
 - 🌱 Also exploring mobile development.
 - 🤓 Currently pursuing certification in Web Accessibility.
 - ⚡ Bachelor's degree in Software Engineering. Associate's degree in Software development.
@@ -14,7 +14,10 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 ---
 
 ### 🚀 Shipped projects: 
-- [🔥 Serviços de Acção Social da Universidade do Minho](https://sas.uminho.pt/) | Full-stack Developer
+- 🔥 Portal de Associativismo (Associativism) [Example 1](https://odivelas.scl.pt/associativismo.php), [Example 2](https://maiadesporto.scl.pt/associativismo.php) | Full-Stack Developer
+  - A fully customizable white-label platform enabling private entities to efficiently apply for public funding.
+- [🔥 Serviços de Acção Social da Universidade do Minho](https://sas.uminho.pt/) | Full-Stack Developer
+  - A new web application developed in alignment with the client's design guidelines, featuring a custom CMS specifically tailored for accessibility.
 - [Freecourts](https://freecourts.pt/) | Frontend Engineer for the 1st MVP
 - [Archi Summit InDetail](https://indetail.archisummit.pt/) | Main WEB DEVELOPER for the 1st MVP
 - [CDUP](https://cdup.up.pt/) | Support Web Developer
