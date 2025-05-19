@@ -24,6 +24,10 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 - ...along with several additional projects not publicly disclosed.
 
 ---
+### 📰 Articles
+- [Building a Fully Accessible Website — The good and… the better?](https://pedrocosta132.medium.com/building-a-fully-accessible-website-the-good-and-the-better-22715d4624ab)
+
+---
 
 ### 👷‍♂️ Some of my personal projects: 
 - ⭐ Transportes Porto (React, TailwindCSS) - Access real-time public transportation schedules across Porto: [Live](https://transportes-porto.vercel.app/)
