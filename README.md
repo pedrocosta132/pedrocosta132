@@ -5,7 +5,7 @@
 
 I am a Frontend Developer from 🇵🇹 Portugal.
 
-- 🔭 Currently working as a Full-Stack Developer at Sincelo.
+- 🔭 Currently working as a Frontend Engineer at [CRON STUDIO](https://www.cron.studio/).
 - 🌱 Also exploring mobile development.
 - 🤓 Currently pursuing certification in Web Accessibility.
 - ⚡ Bachelor's degree in Software Engineering. Associate's degree in Software development.
@@ -14,14 +14,35 @@ I am a Frontend Developer from 🇵🇹 Portugal.
 ---
 
 ### 🚀 Shipped projects: 
-- 🔥 Portal de Associativismo (Associativism) [Example 1](https://odivelas.scl.pt/associativismo.php), [Example 2](https://maiadesporto.scl.pt/associativismo.php) | Full-Stack Developer
-  - A fully customizable white-label platform enabling private entities to efficiently apply for public funding.
-- [🔥 Serviços de Acção Social da Universidade do Minho](https://sas.uminho.pt/) | Full-Stack Developer
-  - A new web application developed in alignment with the client's design guidelines, featuring a custom CMS specifically tailored for accessibility.
-- [Freecourts](https://freecourts.pt/) | Frontend Engineer for the 1st MVP
-- [Archi Summit InDetail](https://indetail.archisummit.pt/) | Main WEB DEVELOPER for the 1st MVP
-- [CDUP](https://cdup.up.pt/) | Support Web Developer
-- ...along with several additional projects not publicly disclosed.
+
+#### 🔥 [Portal de Associativismo](https://odivelas.scl.pt/associativismo.php)
+> A fully customizable white-label platform enabling private entities to efficiently apply for public funding.
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+- 🎨 Fully customizable frontend 
+- 💻 Dashboard with charts and stats  
+- 🛡️ Authentication & roles  
+- 🏗️ Custom applying and validation process
+- 🧑‍💻 Role: Lead Fullstack Dev
+
+#### 🔥 [Serviços de Acção Social da Universidade do Minho](https://sas.uminho.pt/)
+> A new web application developed in alignment with the client's design guidelines, featuring a custom CMS specifically tailored for accessibility.
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
+- 🎨 Brand new CMS for client necessities
+- 💻 Officially certified for acessibility 
+- 📈 1000% speed improvement from older version
+- 🧑‍💻 Role: Lead Fullstack Dev
+
+---
+#### [Freecourts](https://freecourts.pt/) | 🧑‍💻 Frontend engineer
+#### [Archi Summit InDetail](https://indetail.archisummit.pt/) | 🧑‍💻 Fullstack engineer
+#### [CDUP](https://cdup.up.pt/) | 🧑‍💻 Fullstack engineer
+> ...along with several additional projects not publicly disclosed.
 
 ---
 ### 📰 Articles
